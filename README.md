@@ -1,5 +1,6 @@
 ## FastAPI PyTorch Example
 
+Converted from [official tutorial](https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html)
 
 ### References
 
