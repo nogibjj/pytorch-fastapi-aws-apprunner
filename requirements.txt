@@ -16,9 +16,10 @@ scikit-learn==1.1.2
 matplotlib==3.6.0
 seaborn==0.12.0
 dask==2022.9.2
+Pillow==9.3.0
 #MLOps
 gradio==3.4.1
 streamlit==1.13.0
 protobuf==3.16.0
 onnx==1.12.0
-
+torchvision==0.14.0
